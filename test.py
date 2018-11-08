@@ -28,8 +28,9 @@ s1 = "我爱你，{}".format(name)
 print (s)
 print (s1)
 """
-
+"""
 a = 10
 b = 20
 c = a == b
 print(c)
+"""
