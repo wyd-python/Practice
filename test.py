@@ -1,5 +1,6 @@
-#! /usr/bin/env python3.6
+#!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
+# author: wangyadong
 """
 print('---------王亚东--------')
 guess = input("猜下我在想啥: ")
