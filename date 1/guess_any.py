@@ -1,7 +1,7 @@
 #!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
 # author: wangyadong
-"""
+
 age_of_oldboy = 56
 
 count = 0
@@ -17,22 +17,9 @@ while count <3:
         print("think bigger!")
     count +=1
     print(count)
-else:
-    print("you have tried too times....fuck off")
-"""
-
-"""
-for i in range(0,10):
-    if i < 5:
-        print("loop",i)
-    else:
-        print("i is ",i)
-"""
-
-
-for i in range(10):
-    print('---------',i)
-    for j in range(10):
-        print(j)
-        if j > 5:
-            break
+    if count == 3:
+        countine_confirm = input("do you wang to tring...?")
+        if countine_confirm != 'n':
+            count = 0
+#else:
+#    print("you have tried too times....fuck off")
