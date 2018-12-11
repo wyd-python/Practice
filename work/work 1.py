@@ -13,7 +13,9 @@ while count < 3:
     lock_list = lock_file.readlines()
 
     for lock_line in lock_list:
+        print(lock_line)
         lock_online = lock_line.strip('\n')
+        print('p')
         print(lock_online)
         if name == lock_online:
             sys.exit('用户 %s 已经被锁定，退出' % (name))

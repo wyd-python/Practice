@@ -23,7 +23,8 @@ while count < 3:
 
     for lock_user in user_list:
         (user,password) = lock_user.strip('\n').split( )
-
+        print(user)
+        print(password)
         if name == user:
             j = 0
             while j < 3:
