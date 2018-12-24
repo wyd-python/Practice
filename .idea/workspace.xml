@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9506319-de4f-48da-911e-b7570b60c688" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/date 2/new_dir/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/date 2/new_dir/names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/date 2/new_dir/names_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/date 2/new_dir/tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/date 2/shopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/date 2/shopping_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/date 2/string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/date 2/dictionary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date 2/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/date 2/string.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,38 +13,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Practice$sys.coverage" NAME="sys Coverage Results" MODIFIED="1544783179845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 2" />
-    <SUITE FILE_PATH="coverage/Practice$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1545215389419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 2/new_dir" />
-    <SUITE FILE_PATH="coverage/Practice$worktest1.coverage" NAME="worktest1 Coverage Results" MODIFIED="1544509076546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work" />
     <SUITE FILE_PATH="coverage/Practice$sys_mod.coverage" NAME="sys_mod Coverage Results" MODIFIED="1544786306218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 2" />
-    <SUITE FILE_PATH="coverage/Practice$string.coverage" NAME="string Coverage Results" MODIFIED="1545303056614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 2" />
-    <SUITE FILE_PATH="coverage/Practice$names.coverage" NAME="names Coverage Results" MODIFIED="1545135846755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 2/new_dir" />
-    <SUITE FILE_PATH="coverage/Practice$filetest.coverage" NAME="filetest Coverage Results" MODIFIED="1544443778533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 1" />
+    <SUITE FILE_PATH="coverage/Practice$string.coverage" NAME="string Coverage Results" MODIFIED="1545305440939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 2" />
     <SUITE FILE_PATH="coverage/Practice$login.coverage" NAME="login Coverage Results" MODIFIED="1545130292191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 2/new_dir" />
     <SUITE FILE_PATH="coverage/Practice$names_test.coverage" NAME="names_test Coverage Results" MODIFIED="1545215132510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 2/new_dir" />
     <SUITE FILE_PATH="coverage/Practice$shopping_test.coverage" NAME="shopping_test Coverage Results" MODIFIED="1545301768385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 2" />
-    <SUITE FILE_PATH="coverage/Practice$buy.coverage" NAME="buy Coverage Results" MODIFIED="1545301781187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 2" />
     <SUITE FILE_PATH="coverage/Practice$work_1.coverage" NAME="work 1 Coverage Results" MODIFIED="1544444610556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work" />
+    <SUITE FILE_PATH="coverage/Practice$sys.coverage" NAME="sys Coverage Results" MODIFIED="1544783179845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 2" />
+    <SUITE FILE_PATH="coverage/Practice$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1545215389419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 2/new_dir" />
+    <SUITE FILE_PATH="coverage/Practice$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1545359536612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 2" />
+    <SUITE FILE_PATH="coverage/Practice$worktest1.coverage" NAME="worktest1 Coverage Results" MODIFIED="1544509076546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work" />
+    <SUITE FILE_PATH="coverage/Practice$names.coverage" NAME="names Coverage Results" MODIFIED="1545135846755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 2/new_dir" />
+    <SUITE FILE_PATH="coverage/Practice$filetest.coverage" NAME="filetest Coverage Results" MODIFIED="1544443778533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 1" />
+    <SUITE FILE_PATH="coverage/Practice$buy.coverage" NAME="buy Coverage Results" MODIFIED="1545301781187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date 2" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1164626566">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="py" value="30" />
+          <entry key="py" value="32" />
           <entry key="ttt" value="1" />
           <entry key="txt" value="7" />
         </counts>
@@ -57,31 +54,40 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="30" />
+          <entry key="Python" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="py" value="3952" />
+          <entry key="py" value="4311" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="3952" />
+          <entry key="Python" value="4311" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/date 2/string.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="55" lean-forward="true" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+            <state relative-caret-position="255">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/date 2/dictionary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -116,6 +122,7 @@
         <option value="$PROJECT_DIR$/date 2/shopping.py" />
         <option value="$PROJECT_DIR$/date 2/shopping_test.py" />
         <option value="$PROJECT_DIR$/date 2/string.py" />
+        <option value="$PROJECT_DIR$/date 2/dictionary.py" />
       </list>
     </option>
   </component>
@@ -126,8 +133,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="695" />
-    <option name="y" value="83" />
+    <option name="x" value="821" />
+    <option name="y" value="44" />
     <option name="width" value="988" />
     <option name="height" value="739" />
   </component>
@@ -180,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.string">
+  <component name="RunManager" selected="Python.dictionary">
     <configuration name="buy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="names_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,12 +218,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/date 2/new_dir" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/date 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/date 2/new_dir/names_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/date 2/dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,19 +299,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.names_test" />
       <item itemvalue="Python.tuple" />
       <item itemvalue="Python.buy" />
       <item itemvalue="Python.shopping_test" />
       <item itemvalue="Python.string" />
+      <item itemvalue="Python.dictionary" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dictionary" />
         <item itemvalue="Python.string" />
         <item itemvalue="Python.buy" />
         <item itemvalue="Python.shopping_test" />
         <item itemvalue="Python.tuple" />
-        <item itemvalue="Python.names_test" />
       </list>
     </recent_temporary>
   </component>
@@ -322,15 +329,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="695" y="83" width="988" height="739" extended-state="0" />
-    <editor active="true" />
+    <frame x="821" y="44" width="988" height="739" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1807611" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18393235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32921174" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32921174" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -437,13 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/date 2/shopping_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/date 2/shopping.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -467,8 +466,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/date 2/string.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="55" lean-forward="true" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        <state relative-caret-position="255">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date 2/shopping_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date 2/dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
         </state>
       </provider>
     </entry>
