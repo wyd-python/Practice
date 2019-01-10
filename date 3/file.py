@@ -34,8 +34,8 @@ f = open("test.txt","r",encoding="utf-8")
 f_new =open("test_new.txt","w",encoding="utf-8")
 
 for line in f:
-    if "大悟恍然" in line:
-        line = line.replace("大悟恍然","哈哈哈")
+    if "老人" in line:
+        line = line.replace(line,"哈哈哈\n")
         f_new.write(line)
 
     else:

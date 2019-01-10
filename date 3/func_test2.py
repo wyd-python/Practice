@@ -5,8 +5,6 @@ import time
 def logger():
     time_format = '%Y-%m-%d %X'
     time_current = time.strftime(time_format)
-    print(time_format)
-    print(time_current)
     with open('a.txt','a+') as f:
         f.write('%s end action\n' %time_current)
 def test1():
